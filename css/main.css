@@ -54,7 +54,6 @@ body {
   text-align: left;
 }
 
-
 @media only screen and (min-width: 25em) {
 
   html {
@@ -84,6 +83,22 @@ body {
     font-size: 110%;
     line-height: 1.4;
   }
+
+  .card {
+    display: inline-block;
+    width: 32%;
+  }
+
+  .card-img {
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+
+  .card-body {
+    width: 100%;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
