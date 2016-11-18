@@ -64,7 +64,7 @@ body {
   }
 
   .cards {
-    margin: 0;
+    margin: .75em;
   }
 
   .card-img {
